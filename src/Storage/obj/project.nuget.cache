@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s4S8y+I948Yv7dxy0mr2Pya0bWoUzwM2Ti3URv+CjHu42bFKf53ObEQybrpueX+kumis6h16saykZGuS+RMWnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\IMDG\\src\\Storage\\Storage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

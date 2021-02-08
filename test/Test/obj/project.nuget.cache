@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNMTUSoHZfETzmr7rbYhHa+e4nPe3PG//KJOxQHkUdxwJCCOPT3tTv2Vo4FrkP9yQvxP8nYo4q2iUWJI9PS55A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\IMDG\\test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
